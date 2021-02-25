@@ -1,3 +1,0 @@
-[console_scripts]
-move_forward = simple_package.move_forward:main
-
