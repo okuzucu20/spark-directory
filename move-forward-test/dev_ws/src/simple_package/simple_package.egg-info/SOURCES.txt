@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+resource/simple_package
+simple_package/__init__.py
+simple_package/move_forward.py
+simple_package.egg-info/PKG-INFO
+simple_package.egg-info/SOURCES.txt
+simple_package.egg-info/dependency_links.txt
+simple_package.egg-info/entry_points.txt
+simple_package.egg-info/requires.txt
+simple_package.egg-info/top_level.txt
+simple_package.egg-info/zip-safe
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
