@@ -1,0 +1,4 @@
+environs
+numpy
+websocket-client==0.57.0
+websockets==7.0
